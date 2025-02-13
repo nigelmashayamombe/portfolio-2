@@ -89,17 +89,16 @@ export const skills = [
   'GraphQL',
   'Python',
   'Docker',
-  'AWS',
   'TailwindCSS',
-  'MongoDB',
   'Git',
   'CI/CD',
-  
+  'API Design',
 ];
 
 export const socialLinks = {
   github: 'https://github.com/nigelmashayamombe',
   linkedin: 'https://linkedin.com/in/nigel-mashayamombe-4881b1241',
   twitter: 'https://twitter.com/nigelmash07',
-  email: 'mailto:mashayamombenigel424@gmail.com'
+  email: 'mailto:mashayamombenigel424@gmail.com',
+  phone: 'tel:+263779951945' 
 };
